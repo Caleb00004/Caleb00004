@@ -4,7 +4,6 @@ i am a passionate Front End Web eveloper.
 i specialise in Javascript, React, HTML, CSS and i'm willing/open to learning new technologies to add to my Stack.
 
 - working on a crypto currency tracker app that implements chart.Js framework.
-- i'm learning typescript and Next JS
 
 - You can reach me on calebakpan7@gmail.com
 
