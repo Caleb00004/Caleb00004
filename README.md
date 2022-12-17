@@ -1,9 +1,9 @@
 ## Hello There👋, I’m Akpan Caleb
 
 i am a passionate Front End Web eveloper.
-i specialise in Javascript, React, HTML, CSS and i'm willing/open to learning new technologies to add to my Stack.
+i specialise in Javascript, Typescript, React, HTML, CSS and i'm willing/open to learning new technologies to add to my Stack.
 
-- Currently getting into Typescript & NextJS
+- Currently getting into Node JS & Next JS
 - You can reach me on calebakpan7@gmail.com
 
 
