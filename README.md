@@ -3,7 +3,7 @@
 i am a passionate Front End Web eveloper.
 i specialise in Javascript, Typescript, React, HTML, CSS and i'm willing/open to learning new technologies to add to my Stack.
 
-- Currently getting into Node JS & Next JS
+- Currently getting into React Native and Web Sockets
 - You can reach me on calebakpan7@gmail.com
 
 
